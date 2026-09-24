@@ -1,7 +1,6 @@
-# Parametric PINNs for Forward and Inverse Modeling of Multi-Pulse Fiber Propagation
+# Parametric Physics-Informed Neural Networks for Forward and Inverse Modeling of Multi-Pulse Fiber Propagation
 
-Official code-release candidate for the manuscript on AP-PINNs, MP-PINN, and
-beta2-MP-PINN for nonlinear multi-pulse propagation in optical fibers.
+Official implementation for the manuscript on AP-PINN, MP-PINN, and β₂-MP-PINN for nonlinear multi-pulse propagation in optical fibers.
 
 ## What is included
 
