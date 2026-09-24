@@ -1,0 +1,6 @@
+amplitude_combinations,dispersion_condition,beta2_normalized_values,REP_percent
+training,interpolation,0.9;1.1,3.88
+training,extrapolation,0.7;1.3,5.05
+unseen,trained,0.8;1.0;1.2,3.95
+unseen,interpolation,0.9;1.1,3.76
+unseen,extrapolation,0.7;1.3,4.95

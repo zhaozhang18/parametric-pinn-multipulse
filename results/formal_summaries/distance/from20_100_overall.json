@@ -1,0 +1,23 @@
+{
+  "n_samples": 78624,
+  "macro_equal_K_weight": {
+    "full_0to25_rel_l2_field": 0.09414791590419538,
+    "full_0to25_rel_l2_power": 0.057077852151255826,
+    "old_0to20_rel_l2_field": 0.0826512075039593,
+    "old_0to20_rel_l2_power": 0.05066949830431394,
+    "new_20to25_rel_l2_field": 0.13021452101845904,
+    "new_20to25_rel_l2_power": 0.08945389916308666,
+    "terminal_25km_rel_l2_field": 0.14011355632143987,
+    "terminal_25km_rel_l2_power": 0.09639712875056647
+  },
+  "micro_sample_weighted": {
+    "full_0to25_rel_l2_field": 0.08424853245385006,
+    "full_0to25_rel_l2_power": 0.06830325800098165,
+    "old_0to20_rel_l2_field": 0.07531547770521646,
+    "old_0to20_rel_l2_power": 0.0637676713255162,
+    "new_20to25_rel_l2_field": 0.11303311151996201,
+    "new_20to25_rel_l2_power": 0.09093573879504922,
+    "terminal_25km_rel_l2_field": 0.12055093271802216,
+    "terminal_25km_rel_l2_power": 0.0917041964763247
+  }
+}

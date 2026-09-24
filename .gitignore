@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+
+# Large experiment artifacts and model binaries
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.memmap
+*.dat
+*.h5
+*.hdf5
+metrics_stream.csv
+
+# Generated outputs
+paper_figures/*
+!paper_figures/.gitkeep
+outputs/
+runs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

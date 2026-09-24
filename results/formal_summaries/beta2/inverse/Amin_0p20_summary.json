@@ -1,0 +1,13 @@
+{
+  "group": "overall",
+  "n": 100,
+  "K_accuracy": 1.0,
+  "amplitude_8slot_MAE": 0.003050801008939743,
+  "active_amplitude_MAE_K_correct": 0.005960093978792429,
+  "D_MAE": 0.007640138864517212,
+  "D_relative_MAE": 0.008255869402008205,
+  "SSFM_backsub_terminal_power_mean": 0.025430872848886406,
+  "SSFM_backsub_terminal_complex_mean": 0.026347642240008375,
+  "script_version": "universal_unknownK_A_D_inverse_v2_power_backcheck_20260723",
+  "elapsed_sec": 1334.2776958942413
+}

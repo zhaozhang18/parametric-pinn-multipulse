@@ -1,0 +1,8 @@
+task,setting,metric,MP_PINN,CNN,DDNN
+forward_prediction,all_unseen,REP_percent,4.07,0.96,21.54
+inversion,Amin_0.05,AccK_percent,100,100,84
+inversion,Amin_0.05,amplitude_MAE,0.00417,0.00314,0.03061
+inversion,Amin_0.05,REout_percent,5.3,3.17,40.26
+inversion,Amin_0.20,AccK_percent,100,100,97
+inversion,Amin_0.20,amplitude_MAE,0.00404,0.00346,0.0294
+inversion,Amin_0.20,REout_percent,2.94,2.75,25.44
