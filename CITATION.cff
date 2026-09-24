@@ -1,7 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the associated manuscript."
-repository-code: "Parameter Generalization and Inverse Reconstruction of Multi-Pulse Fiber Propagation via Parametric Physics-Informed Neural Networks"
+
+title: "Predicting and Inverting Nonlinear Multi-Pulse Propagation in Optical Fibers with a Single Parametric Physics-Informed Neural Network"
+
 type: software
+
 authors:
   - family-names: Zhang
     given-names: Zhao
@@ -13,6 +16,9 @@ authors:
     given-names: Junjie
   - family-names: Ren
     given-names: Fang
-version: 0.1.0
+
+version: 1.0.0
+
 date-released: "2026-09-23"
-repository-code: "https://github.com/REPLACE_WITH_OWNER/REPLACE_WITH_REPOSITORY"
+
+repository-code: "https://github.com/zhaozhang18/parametric-pinn-multipulse"
