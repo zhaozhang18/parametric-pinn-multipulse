@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the associated manuscript."
-title: "Parameter Generalization and Inverse Reconstruction of Multi-Pulse Fiber Propagation via Parametric Physics-Informed Neural Networks"
+repository-code: "Parameter Generalization and Inverse Reconstruction of Multi-Pulse Fiber Propagation via Parametric Physics-Informed Neural Networks"
 type: software
 authors:
   - family-names: Zhang
